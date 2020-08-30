@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad125538f5dc997c2fd31e30726ad74c",
+    "revision": "3299d4331f1c16faec0c34b943a55171",
     "url": "/hexlet-react-card/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hexlet-react-card/static/js/2.27e7a230.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0355b5bc15e549324831",
-    "url": "/hexlet-react-card/static/js/main.900c4aea.chunk.js"
+    "revision": "d283f600706d5a0cf089",
+    "url": "/hexlet-react-card/static/js/main.67f8a2ad.chunk.js"
   },
   {
     "revision": "981501da186b5606734c",

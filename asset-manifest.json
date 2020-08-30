@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/hexlet-react-card/static/js/main.900c4aea.chunk.js",
-    "main.js.map": "/hexlet-react-card/static/js/main.900c4aea.chunk.js.map",
+    "main.js": "/hexlet-react-card/static/js/main.67f8a2ad.chunk.js",
+    "main.js.map": "/hexlet-react-card/static/js/main.67f8a2ad.chunk.js.map",
     "runtime-main.js": "/hexlet-react-card/static/js/runtime-main.ef816f5b.js",
     "runtime-main.js.map": "/hexlet-react-card/static/js/runtime-main.ef816f5b.js.map",
     "static/js/2.27e7a230.chunk.js": "/hexlet-react-card/static/js/2.27e7a230.chunk.js",
     "static/js/2.27e7a230.chunk.js.map": "/hexlet-react-card/static/js/2.27e7a230.chunk.js.map",
     "index.html": "/hexlet-react-card/index.html",
-    "precache-manifest.5071c3d64cfe384f4d7c5318d4ed3cde.js": "/hexlet-react-card/precache-manifest.5071c3d64cfe384f4d7c5318d4ed3cde.js",
+    "precache-manifest.8cebe9579c8cc479b47af368afbef1a6.js": "/hexlet-react-card/precache-manifest.8cebe9579c8cc479b47af368afbef1a6.js",
     "service-worker.js": "/hexlet-react-card/service-worker.js",
     "static/js/2.27e7a230.chunk.js.LICENSE.txt": "/hexlet-react-card/static/js/2.27e7a230.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ef816f5b.js",
     "static/js/2.27e7a230.chunk.js",
-    "static/js/main.900c4aea.chunk.js"
+    "static/js/main.67f8a2ad.chunk.js"
   ]
 }
