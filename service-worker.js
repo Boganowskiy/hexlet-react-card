@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hexlet-react-card/precache-manifest.8cebe9579c8cc479b47af368afbef1a6.js"
+  "/hexlet-react-card/precache-manifest.6f9711b1ce4a1dd707e78010439b6c15.js"
 );
 
 self.addEventListener('message', (event) => {

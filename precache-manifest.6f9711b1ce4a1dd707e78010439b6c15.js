@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3299d4331f1c16faec0c34b943a55171",
+    "revision": "dd5019594222c99cf510cabe96646440",
     "url": "/hexlet-react-card/index.html"
   },
   {
